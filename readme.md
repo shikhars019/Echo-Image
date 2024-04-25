@@ -1,3 +1,5 @@
+![screencapture-localhost-3000-2024-04-25-13_20_42](https://github.com/shikhars019/Echo-Image/assets/159266581/250ce192-e10a-43bf-93a3-a7e9bb238c20)
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
