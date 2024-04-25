@@ -1,7 +1,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is a demo project to explore OpenAI APIs - it used gpt-4-turbo's vision capabilities to describe an image and then feeds the image to DALL-E to get a similar looking image back.
+This is a demo project to explore OpenAI APIs - it uses gpt-4-turbo's vision capabilities to describe an image and then uses the image description to get a similar looking image from DALL-E.
 
 ### Prerequisites
 
